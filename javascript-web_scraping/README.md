@@ -1,0 +1,1 @@
+<title>JavaScript - Web scraping</title>
